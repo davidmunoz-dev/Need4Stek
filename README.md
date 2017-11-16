@@ -72,6 +72,9 @@ In another terminal
 cd VREP
 ./pipes.sh
 ```
+## Note
+
+Be careful and select "ODE" and not "Bullet" mode.
 
 ## Screenshot
 
