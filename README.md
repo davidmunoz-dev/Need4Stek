@@ -13,7 +13,7 @@ Contributors:
 * durand_4
 * dufrec_p
 
-# Allum1
+# Need4Stek
 
 Create an autonomous car.
 
